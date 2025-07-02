@@ -1,56 +1,28 @@
-<p align="center">
-  <img src="https://github.com/thesinghaman/thesinghaman/assets/68613019/ac742fd1-76f5-407c-80b8-d2aca3ac814a">
-</p>
-
-
 <h3 align="center">
 Hi there, I'm Aman 👋
 </h3>
 
 <h2 align="center">
-I'm a Cross-Platform App Developer 💻, and Tech Hobbyist 📡
+Building Scalable Web and Mobile Applications with JavaScript and Flutter 🚀
 </h2>
 
-I really enjoy making cool apps. I like figuring out how to make them better and meeting new users. It's interesting to see how people use apps and where they click around.
+I'm passionate about building robust and user-friendly applications, from dynamic websites to intuitive mobile apps. I enjoy tackling new challenges, continuously learning, and collaborating with others to bring ideas to life. My focus is on writing clean, efficient code and creating seamless user experiences.
 
-### 🤝 Connect with me:
+## 🔭 What I'm Up To
 
-<a href="https://www.linkedin.com/in/thesinghaman/"><img align="left" src="https://github.com/thesinghaman/thesinghaman/assets/68613019/540fe9c0-d916-41ca-9116-c36ab22547a1" alt="Aman Singh | LinkedIn" width="35px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- Building full-stack applications with the MERN stack (MongoDB, Express.js, React, Node.js).
+- Developing mobile apps using Flutter with a focus on clean architecture and state management.
+- Exploring server-side rendering and static site generation with Next.js.
+- Continuously honing my problem-solving skills with Data Structures & Algorithms.
 
-## 🔭 I'm currently working on
 
-- My old projects
-- Expense Tracker App (Flutter)
-- My Programming skills
+## 🌐 Socials:
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thesinghaman) 
 
-## 🌱 I'm currently learning
-
-- 📱 Flutter
-- Firebase
-- Git & GitHub
-- DSA
-
-## 💼 Technical Skills
-
-![Flutter](https://img.shields.io/badge/Code-Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Code-Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&color=764ABC)
-
-</br>
-
-![C](https://img.shields.io/badge/Languages-C-%2300599C.svg?style=flat&logo=c&color=F7DF1E)
-![C++](https://img.shields.io/badge/Languages-C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Languages-Dart-%230175C2.svg?style=flat&logo=dart&color=003B57)
-![Java](https://img.shields.io/badge/Languages-Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-
-</br>
-
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-## 📈 GitHub Stats 
-
-[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=thesinghaman)](https://github.com/thesinghaman)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thesinghaman&layout=compact)](https://github.com/thesinghaman)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=thesinghaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=thesinghaman&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thesinghaman&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
