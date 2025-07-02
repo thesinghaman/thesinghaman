@@ -17,7 +17,7 @@ I'm passionate about building robust and user-friendly applications, from dynami
 
 
 ## 🌐 Socials:
-💬 If you have any question/feedback, please do not hesitate to reach out to me!
+💬 I am always open to discussing new projects, collaborative opportunities, or interesting tech challenges. Please feel free to connect with me!
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thesinghaman) 
 
 # 💻 Tech Stack:
