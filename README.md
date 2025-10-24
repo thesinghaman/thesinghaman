@@ -15,7 +15,7 @@ I like figuring out how things work and then building my own version of them. Ri
 - Improving problem-solving skills through Data Structures & Algorithms challenges.
 
 
-## 🌐 Socials:
+## 🌐 Socials
 Love talking about ideas, projects, or anything tech-related. Let’s connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thesinghaman) 
